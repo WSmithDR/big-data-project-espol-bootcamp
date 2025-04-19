@@ -1,0 +1,14 @@
+*venv*
+.qodo
+
+/data/
+__pycache__/
+*.pyc
+
+*.db
+
+data_parquet/
+
+.vscode/
+
+*.csv
